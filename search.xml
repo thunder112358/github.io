@@ -45,17 +45,17 @@
   
     
     <entry>
-      <title><![CDATA[categories]]></title>
-      <url>/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[about]]></title>
       <url>/about/index.html</url>
       <content type="html"><![CDATA[<p>本人统计背景出身，一入此坑深似海。 熟悉带有强烈前提假设的一些机器学习算法。</p>
 <p>2017年6月9日新建博客，并搭建在github上。</p>
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[categories]]></title>
+      <url>/categories/index.html</url>
+      <content type="html"></content>
     </entry>
     
     <entry>
